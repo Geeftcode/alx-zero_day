@@ -1,2 +1,1 @@
-My git readme text
-My git readme challenge
+My git readme text updated
